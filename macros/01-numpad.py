@@ -1,5 +1,4 @@
-# SPDX-FileCopyrightText: 2021 Emma Humphries for Adafruit Industries
-#                         2022 Linh Pham
+# SPDX-FileCopyrightText: 2021-2022 Emma Humphries for Adafruit Industries, Linh Pham
 #
 # SPDX-License-Identifier: MIT
 #

@@ -1,5 +1,4 @@
-# SPDX-FileCopyrightText: 2022 by Jessica E. Calderon
-#                         2022 Linh Pham
+# SPDX-FileCopyrightText: 2022 by Jessica E. Calderon, Linh Pham
 #
 # SPDX-License-Identifier: MIT
 #
