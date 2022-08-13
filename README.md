@@ -2,7 +2,7 @@
 
 ## Overview
 
-Custom set of macros for the [Adafruit MACROPAD RP2040](https://www.adafruit.com/product/5100) using CircuitPython 7.x.
+Custom set of macros for the [Adafruit MACROPAD RP2040](https://www.adafruit.com/product/5100) using CircuitPython 7.x for applications running on macOS.
 
 This project extends the original project code published by Phillip Burgess for Adafruit Industries: <https://learn.adafruit.com/macropad-hotkeys/project-code>
 
